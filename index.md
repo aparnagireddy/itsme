@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: About
 landing-title: 'Hi, my name is Aparna'
 description: null
 image: null
