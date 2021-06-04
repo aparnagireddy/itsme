@@ -2,7 +2,7 @@
 layout: home
 title: About
 landing-title: 'Hi, my name is Aparna'
-description: null
+description: 'Was windows admin, Aspiring web Developer, Travel junky'
 image: null
 author: null
 show_tile: false

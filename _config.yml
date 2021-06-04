@@ -1,13 +1,13 @@
 # site settings
 title: Aparna
 subtitle: Portfolio 
-email: youremailaddress@gmail.com
-description: A responsive site template designed Portfolio <br /> and released under the Creative Commons.
+email: aparnasreddy007@gmail.com
+description: Was a windows admin, Aspiring web Developer, Travel junky
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
+street_address: 411 Hunters Glen Dr
+city: Plainsboro 
 state: TN
 zip_code: 55555
 country: United States of America

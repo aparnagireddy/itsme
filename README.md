@@ -2,7 +2,7 @@
 
 A Jekyll version of the "Aparna" theme by [HTML5 UP](https://html5up.net/).  
 
-![Aparna Theme](assets/Aparna.jpg "Aparna Theme")
+![Aparna Theme](itsme/assestsAparna.jpg "Aparna Theme")
 
 # How to Use
 
