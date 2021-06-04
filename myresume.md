@@ -2,7 +2,7 @@
 title: Resume
 layout: landing
 description: ''
-image: itsme/assestsimages/pic07.jpg
+image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link itsme/assestsimages/intern.jpeg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/intern.jpeg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link itsme/assestsimages/grad.png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/grad.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,7 +55,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link itsme/assestsimages/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
