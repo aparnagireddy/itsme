@@ -14,12 +14,18 @@
 	<ul class="links">
         {% for page in site.pages %}
 		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/itsme/">{{ page.title }}</a></li>
+		        <li><a href="http://aparnagireddy.github.io/itsme/index.html">{{ page.title }}</a></li>
+	    	{% endif %}
+			{% if page.layout == "allposts" %}
+		        <li><a href="http://aparnagireddy.github.io/itsme/all_posts.html">{{ page.title }}</a></li>
+	    	{% endif %}
+			{% if page.layout == "landing" %}
+		        <li><a href="http://aparnagireddy.github.io/itsme/myresume.html">{{ page.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
 		{% for page in site.html_pages %}
 		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}/itsme/">{{ page.title }}</a></li>
+		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
 		{% endfor %}
 	</ul>
