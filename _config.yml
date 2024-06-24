@@ -1,14 +1,14 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Aparna
+subtitle: Portfolio 
+email: aparnasreddy007@gmail.com
+description: Was a windows admin, Aspiring web Developer, Travel junky
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address: 411 Hunters Glen Dr
+city: Plainsboro 
+state: NJ
 zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
@@ -22,14 +22,9 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  GitHub: https://github.com/aparnagireddy
+  LinkedIn: https://www.linkedin.com/in/aparna-gireddy
+  Twitter: https://twitter.com/AppuGireddy
 
 # build settings
 markdown: kramdown
